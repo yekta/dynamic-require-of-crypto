@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { ethers } from 'ethers';
+	import 'ethers';
 </script>
 
 <h1>Welcome to SvelteKit</h1>
