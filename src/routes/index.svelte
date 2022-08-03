@@ -1,5 +1,5 @@
 <script lang="ts">
-	import ethers from 'ethers';
+	import { ethers } from 'ethers';
 	console.log(ethers.BigNumber.from(1000).toString());
 </script>
 
