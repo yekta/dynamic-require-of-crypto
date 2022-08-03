@@ -1,5 +1,6 @@
 <script lang="ts">
-	import 'ethers';
+	import ethers from 'ethers';
+	console.log(ethers.BigNumber.from(1000).toString());
 </script>
 
 <h1>Welcome to SvelteKit</h1>
